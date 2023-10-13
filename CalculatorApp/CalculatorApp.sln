@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWindowApp", "Calc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorMachine", "CalculatorMachine\CalculatorMachine.csproj", "{8D0CBD7F-BB68-4D29-BE71-2EA57A4DBDD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorConsoleTest", "CalculatorConsoleTest\CalculatorConsoleTest.csproj", "{7DB32C19-19BC-4E9A-80AB-0B14076EF84C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorUnitTest", "CalculatorUnitTest\CalculatorUnitTest.csproj", "{B33977E1-6013-4986-815D-287D38C2C9CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{8D0CBD7F-BB68-4D29-BE71-2EA57A4DBDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D0CBD7F-BB68-4D29-BE71-2EA57A4DBDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D0CBD7F-BB68-4D29-BE71-2EA57A4DBDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB32C19-19BC-4E9A-80AB-0B14076EF84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB32C19-19BC-4E9A-80AB-0B14076EF84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB32C19-19BC-4E9A-80AB-0B14076EF84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB32C19-19BC-4E9A-80AB-0B14076EF84C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33977E1-6013-4986-815D-287D38C2C9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33977E1-6013-4986-815D-287D38C2C9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33977E1-6013-4986-815D-287D38C2C9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33977E1-6013-4986-815D-287D38C2C9CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
